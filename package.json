@@ -8,8 +8,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "expo": "~39.0.2",
+    "expo-crypto": "^8.3.0",
+    "expo-random": "^9.0.1",
+    "expo-standard-web-crypto": "^1.0.0-beta.0",
     "expo-status-bar": "~1.0.2",
+    "randombytes": "^2.1.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
